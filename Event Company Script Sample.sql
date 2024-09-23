@@ -3,7 +3,7 @@
 --   sitio:      Oracle Database 10g
 --   tipo:      Oracle Database 10g
 
---En mi m·quina local no tengo los create tablespace, los comente
+--En mi m√°quina local no tengo los create tablespace, los comente
 
 CREATE TABLE agenda (
     cve_agenda    INTEGER NOT NULL,
